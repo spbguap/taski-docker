@@ -1,0 +1,10 @@
+# python and git
+venv
+.git
+db.sqlite3
+.env
+
+# IDE files
+.idea
+.vscode
+
